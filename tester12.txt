@@ -9,7 +9,9 @@ Deleopment branch
 
 Again testing the command
 
+<<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster
+
 
 <<<<<<< HEAD
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk rrrrrrrrrrrrfgfdgfgfdfdgf
