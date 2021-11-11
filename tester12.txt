@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-pppppppppppppppppppppppp
+rrrr
 =======
 ggggg gggggggggggghhhhhhhhhh
 >>>>>>> Stashed changes
