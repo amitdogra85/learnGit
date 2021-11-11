@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 rrrr
+=======
+wwww
+>>>>>>> ad3620bc6f0b079ef397b561345603c0611436fa
 =======
 ggggg gggggggggggghhhhhhhhhh
 >>>>>>> Stashed changes
