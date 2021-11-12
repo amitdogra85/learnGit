@@ -1,6 +1,12 @@
-i<<<<<<< HEAD
-New File
-1
+<<<<<<< HEAD
+rrrr
+=======
+wwww
+>>>>>>> ad3620bc6f0b079ef397b561345603c0611436fa
+=======
+ggggg gggggggggggghhhhhhhhhh
+>>>>>>> Stashed changes
+>>>>>>> fd9b50c58b7e721e4b9be36757c40e311f903c1f
 =======
 New File new updatetion from development branch
 >>>>>>> e8323ca0d8db4e4403158b7ea406ff78b571a70d
@@ -8,12 +14,16 @@ New File new updatetion from development branch
 Deleopment branch
 
 Again testing the command
-
+sdfsdfdf
 <<<<<<< HEAD
+<<<<<<< HEAD
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
 dogra12
 =======
 <<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster
+>>>>>>> master
 
 
 <<<<<<< HEAD
