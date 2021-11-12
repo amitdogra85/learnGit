@@ -16,7 +16,14 @@ Deleopment branch
 Again testing the command
 sdfsdfdf
 <<<<<<< HEAD
+<<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
+dogra12
+=======
+<<<<<<< HEAD
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster
+>>>>>>> master
 
 
 <<<<<<< HEAD
@@ -24,3 +31,4 @@ kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk rrrrrrrrrrrrfgfdgfgfdfdgf
 =======
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk rrrrrrrrrrrr sdfdsfds
 >>>>>>> 17b8374c18325e7737ee02998f1b4d85b8594349dsfsdfsdf
+>>>>>>> master
