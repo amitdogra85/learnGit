@@ -1,6 +1,6 @@
 <<<<<<< HEAD masteree ffff
 rrrr
-=======
+=======sdfdf
 wwww
 >>>>>>> ad3620bc6f0b079ef397b561345603c0611436fa
 =======
@@ -11,7 +11,7 @@ ggggg gggggggggggghhhhhhhhhh
 New File new updatetion from development branch
 >>>>>>> e8323ca0d8db4e4403158b7ea406ff78b571a70d
 ee
-Deleopment branch
+Deleopment branchgfdgfg
 
 Again testing the command
 sdfsdfdf
