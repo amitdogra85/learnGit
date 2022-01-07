@@ -4,3 +4,21 @@ New File
 =======
 New File new updatetion from development branch
 >>>>>>> e8323ca0d8db4e4403158b7ea406ff78b571a70d
+
+Deleopment branch
+
+Again testing the command
+
+<<<<<<< HEAD
+dogra12
+=======
+<<<<<<< HEAD
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster
+
+
+<<<<<<< HEAD
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk rrrrrrrrrrrrfgfdgfgfdfdgf
+=======
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk rrrrrrrrrrrr sdfdsfds
+>>>>>>> 17b8374c18325e7737ee02998f1b4d85b8594349dsfsdfsdf
+>>>>>>> master
