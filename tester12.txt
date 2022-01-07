@@ -1,20 +1,40 @@
+<<<<<<< HEAD
 sadad
 i<<<<<<< HEAD
 New File
 1
 =======
+amit test
+
+tetssssssssssssssssssss
+>>>>>>> d55f73660bd68fa5d573a9f47322ab33e54ffd24
+>>>>>>> 581d539437909d9bbc7b6d0adb8427e10dd5ab40
+rrrr
+=======sdfdf
+wwww
+>>>>>>> ad3620bc6f0b079ef397b561345603c0611436fa
+=======
+ggggg gggggggggggghhhhhhhhhh
+>>>>>>> Stashed changes
+>>>>>>> fd9b50c58b7e721e4b9be36757c40e311f903c1f
+>>>>>>> 12bdbf427a25795ca53cf71f2a012cc0226c89c4
+=======
 New File new updatetion from development branch
 >>>>>>> e8323ca0d8db4e4403158b7ea406ff78b571a70d
-
-Deleopment branch
+ee
+Deleopment branchgfdgfg
 
 Again testing the command
-
+sdfsdfdf
+<<<<<<< HEADdsfsdf
 <<<<<<< HEAD
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
 dogra12
 =======
 <<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm gggggggggggggg tettttster
+>>>>>>> master
 
 
 <<<<<<< HEAD
