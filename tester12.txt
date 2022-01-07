@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+sadad
+i<<<<<<< HEAD
+New File
+1
+=======
 amit test
 
 tetssssssssssssssssssss
@@ -11,6 +17,7 @@ wwww
 ggggg gggggggggggghhhhhhhhhh
 >>>>>>> Stashed changes
 >>>>>>> fd9b50c58b7e721e4b9be36757c40e311f903c1f
+>>>>>>> 12bdbf427a25795ca53cf71f2a012cc0226c89c4
 =======
 New File new updatetion from development branch
 >>>>>>> e8323ca0d8db4e4403158b7ea406ff78b571a70d

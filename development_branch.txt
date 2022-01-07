@@ -1,5 +1,9 @@
+:<<<<<<< HEAD
+new files testing
+=======
 New Testing the Development branchfff
 
 new changes
 
 lastest changes
+>>>>>>> 12bdbf427a25795ca53cf71f2a012cc0226c89c4
